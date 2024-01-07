@@ -7,11 +7,11 @@ export default function Email() {
   const { history, rerender } = useContext(termContext); //from terminal file
 
   /* ===== get current command ===== */
-  // const currentCommand = _.split(history[0], " ");
+  const currentCommand = _.split(history[0], " ");
 
-  // if (rerender && currentCommand[0] === "email" && currentCommand.length <= 1) {
-  //   window.open("mailto:" + "samyamshr07@gmail.com", "_self");
-  // }
+  if (rerender && currentCommand[0] === "email" && currentCommand.length <= 1) {
+    window.open("mailto:" + "samyamshr07@gmail.com", "_self");
+  }
 
   return (
     <Wrapper>
