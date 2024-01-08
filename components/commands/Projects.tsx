@@ -72,7 +72,7 @@ const projects = [
   {
     id: 1,
     title: "Portfolio",
-    desc: "My personal blog where I can write down my thoughts and experiences.",
+    desc: "My personal website with my creations",
     url: "https://satnaing.dev/blog/",
   },
   {

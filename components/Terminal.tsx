@@ -28,7 +28,7 @@ type Command = {
 }[];
 
 export const commands: Command = [
-  { cmd: "gui", desc: "change to portfolio", tab: 17 },
+  // { cmd: "gui", desc: "change to portfolio", tab: 17 },
   { cmd: "about", desc: "about Samyam", tab: 15 },
   { cmd: "echo", desc: "print out anything", tab: 16 },
   { cmd: "education", desc: "my education", tab: 11 },
@@ -44,7 +44,7 @@ export const commands: Command = [
   { cmd: "clear", desc: "clear the terminal", tab: 15 },
   { cmd: "experience", desc: "show experiences", tab: 10 },
   { cmd: "sl", desc: "call the train", tab: 18 },
-  { cmd: "exit", desc: "exit terminal mode", tab: 16 },
+  { cmd: "exit", desc: "exit terminal mode (Change to normal mode)", tab: 16 },
 ];
 
 type Term = {
