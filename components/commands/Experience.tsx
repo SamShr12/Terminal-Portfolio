@@ -8,10 +8,10 @@ const eduBg = [
     title: "Web Developer - Intern",
     desc: "SkillHub Ltd. | 2024 - 2027",
   },
-  // {
-  //   title: "High School",
-  //   desc: "Deerwalk Sifal Secondary School | Nepal | 2020 - 2022",
-  // },
+  {
+    title: "Frontend Developer & UI/UX Designer",
+    desc: "Documentary Nepal | Nepal | 2020 - 2022",
+  },
   // {
   //   title: "Schooling",
   //   desc: "Bouddha International School | Nepal | 2016-2020",

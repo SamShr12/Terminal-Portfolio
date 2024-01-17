@@ -16,6 +16,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <link rel="icon" href="/mainlogoport.png" />
+
       <body>{children}</body>
     </html>
   );
