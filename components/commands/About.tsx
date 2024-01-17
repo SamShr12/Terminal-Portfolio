@@ -11,7 +11,7 @@ export default function About() {
         Hello, my name is <HighlightSpan>Samyam</HighlightSpan>!
       </p>
       <p>
-        I'm <HighlightAlt>a web developer</HighlightAlt>.
+        I am <HighlightAlt>a web developer</HighlightAlt>.
       </p>
       <p>
         Dreaming ideas and making them into reality is my goal in life.
