@@ -5,12 +5,12 @@ import { PreImg } from "../styles/Welcome.styled";
 
 const eduBg = [
   {
-    title: "Web Developer - Intern",
-    desc: "SkillHub Ltd. | 2024 - 2027",
+    title: "Developer",
+    desc: "SkillHub Ltd. | 2022 - 2022",
   },
   {
     title: "Frontend Developer & UI/UX Designer",
-    desc: "Documentary Nepal | Nepal | 2020 - 2022",
+    desc: "Documentary Nepal | Nepal | 2022 - 2023",
   },
   // {
   //   title: "Schooling",

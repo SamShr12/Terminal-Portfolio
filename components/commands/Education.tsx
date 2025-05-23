@@ -5,16 +5,12 @@ import { PreImg } from "../styles/Welcome.styled";
 
 const eduBg = [
   {
-    title: "Bachelors in Information Technology",
-    desc: "Macquaire University | 2024 - 2027",
+    title: "Bachelors of Software Engineering (Honours)",
+    desc: "Macquaire University | Sydney, Australia | 2024 - 2027",
   },
   {
     title: "High School",
     desc: "Deerwalk Sifal Secondary School | Nepal | 2020 - 2022",
-  },
-  {
-    title: "Schooling",
-    desc: "Bouddha International School | Nepal | 2016-2020",
   },
 ];
 
